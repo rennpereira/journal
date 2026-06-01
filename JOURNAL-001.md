@@ -15,7 +15,7 @@ Anhanguera – Cybersecurity Technologist degree (offensive security, networking
 
 ## The plan
 
-eJPT -> OSCP. I know it takes months. I'm not in a hurry. I'd rather do it right than pretend I already know it. I believe good pentesters think like engineers before they think like attackers. I'm building both.
+eJPT -> OSCP. I know it takes months. I'm not in a hurry. I'd rather do it right than pretend I already know it.
 
 This journal is more for me than anyone else. But if someone reads this and is on the same path, feel free to reach out.
 
