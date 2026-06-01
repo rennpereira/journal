@@ -3,13 +3,13 @@
 Daily documentation of my journey in offensive security.
 No filters. No shortcuts. Just consistent work and real evolution.
 
-### 🔗 What you'll find here
+### What you'll find here
 
 * `JOURNAL-XXX.md` – Regular entries about what I'm learning, breaking, and fixing
 * `/writeups` – Walkthroughs of vulnerable machines and CTF challenges (coming soon)
 * `/scripts` – Automations in Python and bash
 
-### 🔗 My goal
+### My goal
 
 Keep growing, keep learning, keep building.
 Certifications like eJPT and OSCP are milestones, not destinations.
