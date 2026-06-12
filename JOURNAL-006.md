@@ -19,7 +19,7 @@ The Introduction to Cybersecurity course here serves a specific tactical purpose
 
 ## The Hybrid Execution
 
-This is the convergence of theory and practice. The concepts of threat intelligence and network architecture I learn from Google and Cisco in the morning will directly inform the scripts I write and the networks I map in the local lab during my practical sessions. The theoretical groundwork for the federal infrastructure targets (like UFRN and IFRN) is officially being laid.
+This is the convergence of theory and practice. The concepts of threat intelligence and network architecture I learn from Google and Cisco in the morning will directly inform the scripts I write and the networks I map in the local lab during my practical sessions.
 
 Let's go.
 
